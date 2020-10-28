@@ -12,6 +12,7 @@ public class Student {
     public Integer getAge() {
 	return age;
     }
+	
 
     public void setName(String name) {
 	this.name = name;
